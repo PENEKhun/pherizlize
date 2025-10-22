@@ -1,5 +1,9 @@
 Pherialize
-==========
+-----------
+
+[![Maven Central Version](https://img.shields.io/maven-central/v/io.github.penekhun/pherialize)](https://central.sonatype.com/artifact/io.github.penekhun/pherialize)
+[![javadoc](https://javadoc.io/badge2/io.github.penekhun/pherialize/javadoc.svg)](https://javadoc.io/doc/io.github.penekhun/pherialize)
+
 
 Description
 -----------
